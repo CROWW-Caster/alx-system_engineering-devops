@@ -1,0 +1,2 @@
+#!/bin/bash
+chmosd -R ugo+X
